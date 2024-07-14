@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Datapac_Library_Solution.props" />
+</Project>

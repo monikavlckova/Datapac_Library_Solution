@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Datapac_Library_Solution.props" />
+</Project>

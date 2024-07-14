@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datapac_Library_Solution", "Datapac_Library_Solution\Datapac_Library_Solution.csproj", "{5A26D2FE-6EB7-4DFD-9DD6-8EE2B6A46454}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A26D2FE-6EB7-4DFD-9DD6-8EE2B6A46454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A26D2FE-6EB7-4DFD-9DD6-8EE2B6A46454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A26D2FE-6EB7-4DFD-9DD6-8EE2B6A46454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A26D2FE-6EB7-4DFD-9DD6-8EE2B6A46454}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
